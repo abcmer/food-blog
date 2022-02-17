@@ -1,0 +1,4 @@
+baseURL = "https://food.abcmer.com/"
+languageCode = "en-us"
+title = "food.abcmer"
+theme = "ananke"
